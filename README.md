@@ -82,7 +82,7 @@ NODE_ENV=development
 # Database
 MONGO_URI=mongodb://localhost:27017/your-database-name
 # or for MongoDB Atlas:
-# MONGO_URI=mongodb+srv://ridoy:Ridoy2025pass11@cluster0.zehavve.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+# MONGO_URI=your_production_mongodb_uri
 # JWT Secret (use a strong, random string)
 TOKEN_SECRET=your_super_secret_jwt_key_here
 
